@@ -678,7 +678,7 @@ body{
         margin-top: 1em;
         background: none;
         border: none;
-        color: #cbb5e2;
+        color: #747276;
         background-color: white;
         padding: 0.6em 1.5em;
         font-size: 1em;
@@ -686,25 +686,29 @@ body{
         font-weight: bolder;
     }
     .descp button:hover{
-        color: #a790f2;
+        color: #acabb0;
     }
     #b1{
-        color: #fbadaf;
+        color: #8b8686;
     }
     #b1:hover{
-        color: #ff6e9f;
+        color: #7f797b;
     }
     #b2{
-        color: #a4e0eb;
+        color: #646767;
     }
     #b2:hover{
-        color: #62cdec;
+        color: #868a8b;
     }
     #b3{
-        color: #fdca95;
+        color: #7b7876;
     }
     #b3:hover{
-        color: #fb9124;
+        color: #767370;
     }
 
+}
+.photoSize{
+    width: 200px;
+    line-height: 100px;
 }
