@@ -621,20 +621,19 @@ body{
         width: 100%;
         max-width: 600px;
         justify-content: space-evenly;
-        background-color: #cbb5e2;
+        background-color: hsl(266, 3%, 58%);
         border-radius: 10px;
         margin-bottom: 3em;
         box-shadow: rgba(0, 0, 0, 0.25) 0px 25px 50px -12px;
     }
     .books:nth-of-type(2){
-        background-color: #fbadaf;
+        background-color: hsl(266, 3%, 58%);
     }
     .books:nth-of-type(3){
-        background-color: #a4e0eb;
+        background-color:hsl(266, 3%, 58%);
     }
     .books:nth-of-type(4){
-        background-color: #fdca95;
-    }
+        background-color:hsl(266, 3%, 58%);}
     .book-img{
         width: 100%;
         max-width: 500px;
